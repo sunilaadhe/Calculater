@@ -1,4 +1,4 @@
 let button=document.querySelector("button");
 button.addEventListener("click",()=>{
-  console.log("hello");
+  button.innerText="js";
 });
